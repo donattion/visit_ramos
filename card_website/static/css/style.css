@@ -1,0 +1,120 @@
+.navbar {
+    min-height: 100px;
+}
+
+.paragraph-1 {
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url(../img/back.jpg);
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 765px;
+}
+
+.cols-1 {
+    font-weight: 700;
+    font-size: 48px;
+    max-width: 500px;
+}
+
+.cols-2 {
+    font-weight: 300;
+    font-size: 26px;
+    max-width: 400px;
+
+}
+
+.sss {
+    position: relative;
+    padding-top: 400px;
+}
+
+.arrow {
+    margin-top: 80px;
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-1 {
+    background-image: url(../img/1.jpg);
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 560px;
+    height: 560px;
+}
+
+.logo {
+    display: block;
+    height: 78px;
+    width: 300px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.text-2 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.text-3 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.text-text {
+    font-weight: 700;
+}
+
+.text-5 {
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.text-6 {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.par {
+    margin-top: 130px;
+}
+
+
+.text-contact{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.par-end {
+    margin-bottom: 130px;
+}
+
+.small-text {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.img {
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    font-weight: 700;
+}
